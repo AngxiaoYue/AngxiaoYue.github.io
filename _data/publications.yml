@@ -20,3 +20,25 @@ main:
     poster: ./assets/files/2025_aaai_otm_poster.pdf
     bibtex_key: OTM
     image: ./assets/img/2025_aaai_otm_scheme.png
+
+  - title: "A plug-and-play quaternion message-passing module for molecular conformation representation"
+    authors: <strong>Angxiao Yue</strong>, Dixin Luo, Hongteng Xu
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29602
+    code: https://github.com/AngxiaoYue/QMP
+    poster: ./assets/files/2024_aaai_qmp_poster.pdf
+    slides: ./assets/files/2024_aaai_qmp_slides.pdf
+    bibtex_key: QMP
+    image: ./assets/img/2024_aaai_qmp_scheme.png
+
+  - title: "Weakly-supervised temporal action alignment driven by unbalanced spectral fused Gromov-Wasserstein distance"
+    authors: Dixin Luo, Yutong Wang, <strong>Angxiao Yue</strong>, Hongteng Xu
+    conference_short: ACM MM
+    conference: ACM Multimedia <strong>(ACM MM)</strong>, 2022.
+    pdf: https://drive.google.com/file/d/1hRAcNu3O3hA9QZU_20zXPwQeambP2Tte/view
+    code: https://github.com/hhhh1138/Temporal-Action-Alignment-USFGW
+    poster: ./assets/files/2022_acmmm_usfgw_poster.pdf
+    slides: ./assets/files/2022_acmmm_usfgw_slides.pdf
+    bibtex_key: USFGW
+    image: ./assets/img/2022_acmmm_usfgw_scheme.png
