@@ -20,7 +20,7 @@ github_link: https://github.com/AngxiaoYue
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/angxiao.jpg
+avatar: ./assets/img/avatar_v1.JPG
 favicon: ./assets/img/favicon-32x32.png
 favicon_dark: ./assets/img/favicon-dark-32x32.png
 
