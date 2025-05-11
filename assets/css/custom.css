@@ -18,4 +18,30 @@ p, ul, ol {
 /* Adjust other specific elements if needed */
 .bibref {
   font-size: 75%; /* Slightly larger reference text */
+}
+
+/* Layout width adjustments */
+.wrapper {
+  width: 1080px; /* Increase overall width from 960px */
+  margin: 0 auto;
+}
+
+header {
+  width: 300px; /* Increase header width from 232px */
+  padding-left: 10px; /* Add some left padding */
+}
+
+section {
+  width: 700px; /* Adjust section width accordingly */
+}
+
+footer {
+  width: 300px; /* Match header width */
+}
+
+/* For mobile responsiveness */
+@media print, screen and (max-width: 1080px) {
+  .wrapper {
+    width: auto;
+  }
 } 
