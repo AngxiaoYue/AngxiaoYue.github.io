@@ -1,0 +1,21 @@
+/* Custom font size adjustments */
+body {
+  font-size: 18px; /* Increase base font size from 16px to 18px */
+}
+
+h1 {
+  font-size: 32px; /* Adjust heading sizes proportionally */
+}
+
+h2 {
+  font-size: 24px;
+}
+
+p, ul, ol {
+  font-size: 18px;
+}
+
+/* Adjust other specific elements if needed */
+.bibref {
+  font-size: 75%; /* Slightly larger reference text */
+} 
