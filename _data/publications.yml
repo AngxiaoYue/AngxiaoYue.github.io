@@ -1,14 +1,14 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation
+    authors: <strong>Angxiao Yue</strong>, Zichong Wang, Hongteng Xu
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2502.14637
+    code: https://github.com/AngxiaoYue/ReQFlow
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AwKLocTpbeUJ:scholar.google.com/&output=citation&scisdr=CgIExHLHEIX3sZt0TjE:AAZF9b8AAAAAaCByVjEQD1YPuAnJkwyAgtk9HJ4&scisig=AAZF9b8AAAAAaCByVqvg2k-lM4wsaCT0_eN_SE8&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/scheme_reqflow.pdf
+    # notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
