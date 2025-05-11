@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2502.14637
     code: https://github.com/AngxiaoYue/ReQFlow
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:AwKLocTpbeUJ:scholar.google.com/&output=citation&scisdr=CgIExHLHEIX3sZt0TjE:AAZF9b8AAAAAaCByVjEQD1YPuAnJkwyAgtk9HJ4&scisig=AAZF9b8AAAAAaCByVqvg2k-lM4wsaCT0_eN_SE8&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/scheme_reqflow.pdf
+    image: ./assets/img/scheme_reqflow.png
     # notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
