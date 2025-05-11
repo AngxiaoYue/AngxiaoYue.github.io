@@ -1,6 +1,6 @@
 main:
 
-  - title: ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation
+  - title: "ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation"
     authors: <strong>Angxiao Yue</strong>, Zichong Wang, Hongteng Xu
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
