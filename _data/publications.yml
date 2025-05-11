@@ -8,16 +8,15 @@ main:
     code: https://github.com/AngxiaoYue/ReQFlow
     poster: ./assets/files/2025_icml_reqflow_poster_v1.pdf
     bibtex_key: ReQFlow
-    image: ./assets/img/scheme_reqflow.png
+    image: ./assets/img/2025_icml_reqflow_scheme.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning"
+    authors: Fengjiiao Gong, <strong>Angxiao Yue</strong>, Hongteng Xu
+    conference_short: AAAI
+    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33849
+    code: https://github.com/redLinmumu/OTM
+    poster: ./assets/files/2025_aaai_otm_poster.pdf
+    bibtex_key: OTM
+    image: ./assets/img/2025_aaai_otm_scheme.png

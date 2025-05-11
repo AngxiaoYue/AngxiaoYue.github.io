@@ -5,6 +5,15 @@ const bibtexData = {
   author={Yue, Angxiao and Wang, Zichong and Xu, Hongteng},
   journal={arXiv preprint arXiv:2502.14637},
   year={2025}
+}`,
+  "OTM": `@inproceedings{gong2025optimal,
+  title={An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning},
+  author={Gong, Fengjiiao and Yue, Angxiao and Xu, Hongteng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={16},
+  pages={16826--16834},
+  year={2025}
 }`
   // 您可以添加更多论文的BibTeX内容
 };
