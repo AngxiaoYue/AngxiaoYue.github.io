@@ -30,7 +30,9 @@
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
-      {% if link.bibtex %} 
+      {% if link.bibtex_key %} 
+      <a id="bibtex-btn-{{ link.bibtex_key }}" onclick="copyBibtex('{{ link.bibtex_key }}')" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;cursor:pointer;">BibTex</a>
+      {% elsif link.bibtex %}
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
