@@ -17,7 +17,7 @@ function copyBibtex(paperKey) {
       // 显示成功消息
       const copyBtn = document.getElementById(`bibtex-btn-${paperKey}`);
       const originalText = copyBtn.textContent;
-      copyBtn.textContent = "已复制!";
+      copyBtn.textContent = "Copied!";
       setTimeout(() => {
         copyBtn.textContent = originalText;
       }, 2000);
