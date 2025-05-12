@@ -21,7 +21,7 @@ main:
     bibtex_key: OTM
     image: ./assets/img/2025_aaai_otm_scheme.png
 
-  - title: "A plug-and-play quaternion message-passing module for molecular conformation representation"
+  - title: "A Plug-and-play Quaternion Message-passing Module for Molecular Conformation Representation"
     authors: <strong>Angxiao Yue</strong>, Dixin Luo, Hongteng Xu
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
@@ -32,7 +32,7 @@ main:
     bibtex_key: QMP
     image: ./assets/img/2024_aaai_qmp_scheme.png
 
-  - title: "Weakly-supervised temporal action alignment driven by unbalanced spectral fused Gromov-Wasserstein distance"
+  - title: "Weakly-supervised Temporal Action Alignment Driven by Unbalanced Spectral Fused Gromov-Wasserstein Distance"
     authors: Dixin Luo, Yutong Wang, <strong>Angxiao Yue</strong>, Hongteng Xu
     conference_short: ACM MM
     conference: ACM Multimedia <strong>(ACM MM)</strong>, 2022.
