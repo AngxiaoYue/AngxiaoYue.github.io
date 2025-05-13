@@ -14,7 +14,7 @@ main:
   - title: "An Optimal Transport-based Latent Mixer for Robust Multi-modal Learning"
     authors: Fengjiiao Gong, <strong>Angxiao Yue</strong>, Hongteng Xu
     conference_short: AAAI
-    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33849
     code: https://github.com/redLinmumu/OTM
     poster: ./assets/files/2025_aaai_otm_poster.pdf
@@ -24,7 +24,7 @@ main:
   - title: "A Plug-and-play Quaternion Message-passing Module for Molecular Conformation Representation"
     authors: <strong>Angxiao Yue</strong>, Dixin Luo, Hongteng Xu
     conference_short: AAAI
-    conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29602
     code: https://github.com/AngxiaoYue/QMP
     poster: ./assets/files/2024_aaai_qmp_poster.pdf
