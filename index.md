@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. I am supervised by Prof. [Hongteng Xu](https://hongtengxu.github.io/). Prior to that, I received my bachelor's degree in Data Science from Beijing Institute of Technology, under the supervision of Prof. [Dixin Luo](https://dixinluo.github.io/). My research interests focus on Machine Learning driven by Geometry Algebra and AI4Science.
+I am a second-year Ph.D. student at the Gaoling School of Artificial Intelligence, Renmin University of China. I am supervised by Prof. [Hongteng Xu](https://hongtengxu.github.io/). Prior to that, I received my bachelor's degree in Data Science from Beijing Institute of Technology, under the supervision of Prof. [Dixin Luo](https://dixinluo.github.io/). My research interests focus on Machine Learning driven by Geometric Algebra and AI4Science.
 
 <!-- ## Research Interests
 
